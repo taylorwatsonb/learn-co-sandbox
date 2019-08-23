@@ -1,0 +1,1 @@
+["This", "is", "a", "test"].join(' ') #=> "This is a test"
